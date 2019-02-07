@@ -1,0 +1,12 @@
+{
+    "router": {
+        "SSID": "50b32f",
+        "password": "271813285"
+    },
+    "server": {
+        "IP": "192.168.0.11",
+        "httpPort": 1080,
+        "httpsPort": 1081,
+        "websocketPort": 1443
+    }
+}
