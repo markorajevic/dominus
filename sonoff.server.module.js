@@ -1,6 +1,6 @@
 module.exports.createServer = function (config) {
     const CONNECTION_IS_ALIVE_CHECK_INTERVAL = 30000;
-   
+
     const fs = require('fs');
     const path = require('path');
     const ws = require("nodejs-websocket");
